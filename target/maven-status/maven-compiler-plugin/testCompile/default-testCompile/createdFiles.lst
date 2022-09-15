@@ -1,0 +1,6 @@
+com\guru99bank\testCases\BaseClass.class
+com\guru99bank\utilities\ReadConfig.class
+com\guru99bank\pageObjects\AddCustomerPage.class
+com\guru99bank\pageObjects\LoginPage.class
+com\guru99bank\testCases\TC_AddCustomerTest_002.class
+com\guru99bank\testCases\TC_LoginTest_001.class
